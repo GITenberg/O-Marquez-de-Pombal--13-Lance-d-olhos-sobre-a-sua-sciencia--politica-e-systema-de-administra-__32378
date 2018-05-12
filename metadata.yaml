@@ -1,0 +1,33 @@
+_repo: O-Marquez-de-Pombal--13-Lance-d-olhos-sobre-a-sua-sciencia--politica-e-systema-de-administra-__32378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garcia, Manuel Emídio
+    aliases:
+    - Garcia, Manuel Emidio
+    - Garcia, Emygdio
+    - Garcia, Manuel Emygdio
+    birthdate: 1838
+    deathdate: 1904
+    gutenberg_agent_id: '35814'
+    url: http://www.gutenberg.org/2009/agents/35814
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32378'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pombal, Sebastião José de Carvalho e Melo, Marquês de, 1699-1782'
+- !lcc 'DP'
+title: "O Marquez de Pombal\r\nLance d'olhos sobre a sua sciencia; politica e systema\
+  \ de administração; ideias liberaes que o dominavam; plano e primeiras tentativas\
+  \ democraticas"
+url: http://www.gutenberg.org/ebooks/32378
