@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '35814'
     url: http://www.gutenberg.org/2009/agents/35814
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32378#O-Marquez-de-Pombal--13-Lance-d-olhos-sobre-a-sua-sciencia--politica-e-systema-de-administra-_
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2010-05-15'
 gutenberg_type: Text
